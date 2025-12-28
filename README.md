@@ -75,16 +75,12 @@ I define myself as a **Full Stack & Mobile Developer** and a passionate **IoT En
   <img src="https://img.shields.io/badge/Game_Design-Creativity-purple?style=flat-square" />
 </div>
 
-<br />
-
 <div align="center">
   <p><i>Thanks for visiting my profile! Feel free to connect.</i></p>
   
   <a href="https://www.linkedin.com/in/sergioescalante821/" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/CONTACT%20ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-  <br/> <br/>
   
   <img src="https://komarev.com/ghpvc/?username=Xephorot&label=Visitors&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
