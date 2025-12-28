@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3F8CFF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sergio+Escalante;Full+Stack+%26+Mobile+Dev;Univalle+Game+Jam+Winner+2024;IoT+Enthusiast+%26+Learner;Cybersecurity+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sergio+Escalante;Full+Stack+%26+Mobile+Dev;Univalle+Game+Jam+Winner+2024;IoT+Enthusiast+%26+Learner;Cybersecurity+Student" alt="Typing SVG" />
 
   <p>
     <i>"Innovation through Code, Hardware, and Strategy."</i>
@@ -7,10 +7,10 @@
 
   <p>
     <a href="https://www.linkedin.com/in/sergioescalante821/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:Escalantesergio821@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
@@ -70,16 +70,14 @@ I define myself as a **Full Stack & Mobile Developer** and a passionate **IoT En
 
 <div align="center">
   <a href="https://github.com/Xephorot?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/Xephorot?style=for-the-badge&logo=github&color=3F8CFF" alt="Repos" />
+    <img src="https://img.shields.io/github/public-repos/Xephorot?style=social&logo=github" alt="Public Repos" />
   </a>
-  <a href="https://github.com/Xephorot">
-    <img src="https://img.shields.io/github/stars/Xephorot?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
-  </a>
-  <a href="https://github.com/Xephorot">
-    <img src="https://img.shields.io/github/followers/Xephorot?style=for-the-badge&logo=github&color=success" alt="Followers" />
+  &nbsp;&nbsp; <a href="https://github.com/Xephorot">
+    <img src="https://img.shields.io/github/followers/Xephorot?style=social&logo=github" alt="Followers" />
   </a>
 </div>
 
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Xephorot&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Xephorot&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
