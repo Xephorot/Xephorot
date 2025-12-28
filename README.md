@@ -66,18 +66,25 @@ I define myself as a **Full Stack & Mobile Developer** and a passionate **IoT En
 
 ---
 
-### 📊 GitHub Activity
+### 🧠 Methodologies & Soft Skills
 
 <div align="center">
-  <a href="https://github.com/Xephorot?tab=repositories">
-    <img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  </a>
-  <a href="https://github.com/Xephorot">
-    <img src="https://img.shields.io/badge/Follow_Me-0052CC?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/Agile_Scrum-Methodology-blue?style=flat-square&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team_Leadership-Soft_Skill-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-Engineering-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Game_Design-Creativity-purple?style=flat-square" />
+</div>
+
+<br />
+
+<div align="center">
+  <p><i>Thanks for visiting my profile! Feel free to connect.</i></p>
+  
+  <a href="https://www.linkedin.com/in/sergioescalante821/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <br />
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=Xephorot&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
+  <br/> <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Xephorot&label=Visitors&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
