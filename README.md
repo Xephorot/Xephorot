@@ -72,13 +72,12 @@ I define myself as a **Full Stack & Mobile Developer** and a passionate **IoT En
   <a href="https://github.com/Xephorot?tab=repositories">
     <img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
-  &nbsp;&nbsp; 
   <a href="https://github.com/Xephorot">
     <img src="https://img.shields.io/badge/Follow_Me-0052CC?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
   </a>
-</div>
+  
+  <br />
+  <br />
 
-<div align="center"> 
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=Xephorot&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
